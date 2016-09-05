@@ -23,11 +23,10 @@
 
 
 # Site settings
-title: Ola k ase
-email: naveen@pixelblenders.com
+title: Bryan Alexis
+email: bryanalexislc@outook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, I'm Naveen, a freelance front-end developer
-  and UI designer. Check out my projects on GitHub
+  Hola me llamo Bryan vivo en Culiacan, Sinaloa curso 1 grdo de secuundaria. 
 baseurl: "/material/" # the subpath of your site, e.g. /blog/
 url: "http://BryanAlexis86.github.io/" # the base hostname & protocol for your site
 twitter_username: navvenshady
